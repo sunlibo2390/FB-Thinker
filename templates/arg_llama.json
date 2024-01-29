@@ -1,0 +1,6 @@
+{
+    "description": "Template used for inference.",
+    "prompt_input": "---\n{instruction}\n---\n参考以上范例，根据如下关于{name}的文章或评论总结归纳这款汽车的优缺点\n### 输入:\n{input}\n### 归纳:\n",
+    "prompt_no_example": "根据如下关于{name}的文章或评论总结归纳这款汽车的优缺点\n### 输入:\n{input}\n### 归纳:\n",
+    "response_split": "### 归纳:"    
+}

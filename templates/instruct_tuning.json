@@ -1,0 +1,6 @@
+{
+    "description": "Template used for instruct-tuning.",
+    "prompt_input": "如下指令中描述了一个任务，请按要求输出回答\n\n### 指令:\n{instruction}\n\n### 输入:\n{input}\n\n### 归纳:\n",
+    "prompt_no_input": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\n{instruction}\n\n### Response:\n",
+    "response_split": "### 归纳:"    
+}
